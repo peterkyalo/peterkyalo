@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @peterkyalo
+- 👋 Hi, I’m Peter Kyalo
 - 👀 I’m interested in coding using Laravel
 - 🌱 I’m currently learning Laravel, Node js and React
 - 💞️ I’m looking to collaborate on any open source software development
