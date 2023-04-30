@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter Kyalo
 - 👀 I’m interested in coding using Laravel
-- 🌱 I’m currently learning Laravel, Node js and React
+- 🌱 I’m currently learning Laravel, Node js, Vue js, React js and mobile app development using Kotlin and Java.
 - 💞️ I’m looking to collaborate on any open source software development
 - 📫 How to reach me through peterkyalo69@gmail.com
 
